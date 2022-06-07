@@ -1,0 +1,31 @@
+#social-links ul{
+    padding-left: 0;
+}
+#social-links ul li {
+    display: inline-block;
+} 
+#social-links ul li a {
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 1px;
+    font-size: 25px;
+}
+#social-links .fa-facebook{
+     color: #0d6efd;
+}
+#social-links .fa-twitter{
+     color: deepskyblue;
+}
+#social-links .fa-linkedin{
+     color: #0e76a8;
+}
+#social-links .fa-whatsapp{
+    color: #25D366
+}
+#social-links .fa-reddit{
+    color: #FF4500;;
+}
+#social-links .fa-telegram{
+    color: #0088cc;
+}
